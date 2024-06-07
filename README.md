@@ -24,7 +24,7 @@ To install Yared Garage App, simply follow these steps:
 
 We welcome contributions from the community to help improve Yared Garage App. To contribute, please follow these steps:
 
-1. Fork the repository
+1. Fork the repo
 2. Create a new branch: `git checkout -b feature/my-feature`
 3. Make your changes and commit them: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin feature/my-feature`
