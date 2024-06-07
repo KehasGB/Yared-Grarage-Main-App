@@ -21,6 +21,7 @@ To install Yared Garage App, simply follow these steps:
 4. Start the application: `npm start`
 
 ## Contributing
+
 We welcome contributions from the community to help improve Yared Garage App. To contribute, please follow these steps:
 
 1. Fork the repository
