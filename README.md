@@ -1,4 +1,4 @@
-# Yared Garage App
+### Yared Garage App
 
 [Visit Yared Garage App Website](https://yaredgarage.com/)
 
