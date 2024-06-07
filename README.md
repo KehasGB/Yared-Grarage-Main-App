@@ -1,6 +1,6 @@
 ## Yared Garage App
 
-Yared Garage App is a comprehensive software solution meticulously crafted to streamline and elevate the day-to-day workflow at Yared Garage. This application is designed to simplify key processes such as customer intake, appointment management, and task tracking, with the ultimate goal of enhancing operational efficiency and maximizing customer satisfaction.
+Yared Garage App is a comprehensive software solution meticulously crafted to streamline and elevate the day to day workflow at Yared Garage. This application is designed to simplify key processes such as customer intake, appointment management, and task tracking, with the ultimate goal of enhancing operational efficiency and maximizing customer satisfaction.
 
 ## Key Features
 
